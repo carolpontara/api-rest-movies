@@ -65,11 +65,11 @@ A API é útil para aplicações que necessitam gerenciar uma lista de filmes e 
 ![image](https://user-images.githubusercontent.com/111318380/222981171-e0d6770b-680f-4218-a367-76f819f4caea.png)
 
 # ✅ Tecnologias Ultilizadas
-*Java 
-*Intellij Idea
-*JPA 
-*H2
-*SpringBoot
+´Java 
+´Intellij Idea´
+´JPA´ 
+´H2´
+´SpringBoot´
 
 # 🇧🇷👩‍💻 Desenvolvedora 
 
