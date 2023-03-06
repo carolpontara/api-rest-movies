@@ -67,8 +67,6 @@ A API é útil para aplicações que necessitam gerenciar uma lista de filmes e 
 # ✅ Tecnologias Ultilizadas
 -Java 
 
--Intellij Idea
-
 -JPA
 
 -H2
